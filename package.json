@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "test": "tsx index.ts"
+    "test": "tsx s/index.ts"
   },
   "keywords": [],
   "author": "",
