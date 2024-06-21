@@ -16,5 +16,4 @@ jobs:
       - name: i
         run: npm i
       - name: bash
-        shell: bash
-        run: ./test.sh
+        run: bash ./test.sh
