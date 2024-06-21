@@ -16,4 +16,4 @@ jobs:
       - name: i
         run: npm i
       - name: bash
-        run: bash ./test.sh
+        run: bash .github/workflows/test.sh
